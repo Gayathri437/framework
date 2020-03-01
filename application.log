@@ -1,0 +1,258 @@
+2020-02-14 18:43:04,147  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 18:46:26,142  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 18:46:59,251  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:25:52,843  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:26:00,038  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-14 19:26:11,647  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-14 19:26:15,410  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-14 19:26:16,271  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-14 19:27:49,655  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:27:55,156  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-14 19:27:55,552  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-14 19:27:59,264  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-14 19:28:02,452  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-14 19:35:56,182  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:36:05,247  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-14 19:36:05,651  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-14 19:36:13,125  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-14 19:36:15,300  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-14 19:47:33,599  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:47:33,599  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:47:45,578  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-14 19:47:45,652  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-14 19:47:50,222  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-14 19:47:50,226  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-14 19:47:55,281  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-14 19:47:55,524  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-14 19:49:06,322  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-14 19:49:09,167  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-14 19:49:09,632  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-14 19:49:13,468  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-14 19:49:13,836  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 14:59:07,828  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 14:59:10,457  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 14:59:11,214  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 14:59:16,793  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-16 14:59:17,055  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 15:02:49,911  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 15:03:03,452  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 15:03:07,023  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 15:03:10,748  INFO [main] BaseClass:56 - ------------login opened----------
+2020-02-16 15:03:12,001  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 15:44:52,698  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 15:45:13,300  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 15:45:14,564  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 15:45:50,428  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 15:45:52,667  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 15:48:53,170  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 15:48:56,982  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 15:48:57,457  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 15:49:30,270  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 15:49:32,448  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 16:07:14,787  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 16:07:21,091  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 16:07:26,624  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 16:07:59,051  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 16:07:59,390  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 16:20:53,937  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 16:21:01,986  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 16:21:04,729  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 16:22:27,835  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 16:22:35,604  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 16:22:37,801  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 16:23:09,338  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 16:23:09,839  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 16:38:55,370  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 16:39:03,235  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 16:39:04,727  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 16:39:40,271  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 16:39:42,891  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 16:46:32,878  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 16:46:38,746  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 16:46:39,111  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 17:35:51,907  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 17:35:58,474  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 17:35:59,559  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 17:36:37,964  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 17:36:38,219  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 17:46:48,677  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 17:46:58,177  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 17:47:01,100  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 17:47:02,698  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 17:47:03,419  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 18:01:46,656  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 18:01:57,867  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 18:02:00,933  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 18:02:02,576  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 18:02:03,368  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 18:51:23,383  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 18:51:32,452  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 18:51:34,600  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 18:52:10,312  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 18:52:10,733  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 18:53:51,309  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 18:53:56,959  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 18:53:57,620  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 18:54:03,504  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 18:54:04,097  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:02:23,219  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:02:28,008  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:02:29,863  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:03:02,250  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:03:05,396  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:04:22,163  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:04:31,690  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:04:32,163  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:05:11,522  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:05:13,738  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:08:03,576  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:08:12,861  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:08:13,479  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:08:45,850  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:08:46,103  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:14:23,934  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:14:28,973  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:14:29,550  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:15:02,705  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:15:02,971  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:22:46,963  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:22:52,686  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:22:53,203  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:23:30,303  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:23:30,663  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:26:50,518  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:26:57,957  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:27:00,540  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:27:04,315  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:27:05,105  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-16 19:29:53,790  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-16 19:30:00,200  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-16 19:30:02,692  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-16 19:30:05,526  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-16 19:30:06,974  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 09:08:23,614  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 09:08:28,401  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 09:08:28,993  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 09:08:35,505  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 09:08:37,800  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 09:12:54,157  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 09:12:57,318  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 09:12:57,701  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 09:13:00,684  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 09:13:02,891  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:06:03,070  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:06:17,383  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:06:19,050  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:06:58,394  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:07:00,483  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:15:02,480  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:15:17,067  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:15:18,921  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:15:57,457  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:15:59,599  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:25:54,208  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:26:00,342  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:26:00,872  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:27:14,242  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:27:20,246  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:27:25,423  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:27:29,520  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:27:31,700  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:31:22,818  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:31:36,616  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:31:38,987  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:31:42,163  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:31:43,521  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:32:43,752  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:32:48,139  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:32:48,606  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:32:52,332  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:32:54,524  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:33:54,248  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:33:59,784  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:34:00,264  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:34:41,717  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:34:44,102  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:38:39,824  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:38:49,060  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:38:59,004  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:39:04,533  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:39:05,247  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:41:32,347  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:41:52,235  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:42:01,000  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:42:19,773  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:42:22,028  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 10:51:26,744  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 10:51:32,003  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 10:51:32,447  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 10:51:38,222  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 10:51:40,758  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 11:49:57,353  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 11:50:04,593  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 11:50:04,995  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 11:50:12,225  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 11:50:12,434  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 11:54:59,360  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 11:55:08,769  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 11:55:16,281  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 11:55:19,643  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 11:55:21,726  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 11:57:20,500  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 11:57:27,150  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 11:57:27,602  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 11:57:33,943  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 11:57:34,614  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 12:02:26,556  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 12:02:28,802  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 12:02:29,328  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 12:02:32,707  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 12:02:34,959  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 12:06:32,137  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 12:06:58,700  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 12:07:09,720  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 12:07:22,900  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 12:07:25,833  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 12:13:15,649  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 12:13:18,003  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 12:13:18,459  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 12:13:22,430  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 12:13:24,657  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 12:16:15,681  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 12:16:21,632  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 12:16:22,043  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 12:16:25,437  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 12:16:25,662  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 12:31:16,290  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 12:31:35,339  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 12:31:37,089  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 12:31:45,729  INFO [main] BaseClass:17 - ----------DropDown 
+2020-02-17 12:31:47,030  INFO [main] BaseClass:20 - ----------DropDown 
+2020-02-17 12:31:47,351  INFO [main] BaseClass:23 - ----------DropDown 
+2020-02-17 12:31:47,353  INFO [main] BaseClass:25 - ----------DropDown 
+2020-02-17 12:31:53,679  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 12:31:55,071  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 21:15:25,661  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 21:15:42,135  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 21:15:44,491  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 21:15:53,117  INFO [main] BaseClass:17 - ----------DropDown 
+2020-02-17 21:15:53,595  INFO [main] BaseClass:20 - ----------DropDown 
+2020-02-17 21:15:53,848  INFO [main] BaseClass:23 - ----------DropDown 
+2020-02-17 21:15:55,988  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 21:15:56,912  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 21:54:55,451  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 21:55:14,467  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 21:55:16,054  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 21:55:26,819  INFO [main] BaseClass:17 - ----------DropDown 
+2020-02-17 21:55:27,243  INFO [main] BaseClass:20 - ----------DropDown 
+2020-02-17 21:55:27,452  INFO [main] BaseClass:23 - ----------DropDown 
+2020-02-17 21:55:29,168  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 21:55:29,801  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------
+2020-02-17 21:56:50,896  INFO [main] BaseClass:30 - ------------Google Chrome Browser opened---------
+2020-02-17 21:56:54,431  INFO [main] BaseClass:46 - -------------actitimePage login------------
+2020-02-17 21:56:55,055  INFO [main] BaseClass:50 - ------------login opened----------
+2020-02-17 21:56:57,279  INFO [main] BaseClass:17 - ----------DropDown 
+2020-02-17 21:56:57,513  INFO [main] BaseClass:20 - ----------DropDown 
+2020-02-17 21:56:57,767  INFO [main] BaseClass:23 - ----------DropDown 
+2020-02-17 21:56:58,977  INFO [main] BaseClass:56 - ------------login closed----------
+2020-02-17 21:57:02,135  INFO [main] BaseClass:39 - ------------Google Chrome Browser closed----------

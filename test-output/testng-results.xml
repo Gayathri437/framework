@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18042" started-at="2020-02-17T05:02:36Z" finished-at="2020-02-17T05:02:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18042" started-at="2020-02-17T05:02:36Z" finished-at="2020-02-17T05:02:54Z">
+      <class name="com.actitime.projects_scripts.CreateProject">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.actitime.projects_scripts.CreateProject@4f7d0008]" name="OpenBrowser" is-config="true" duration-ms="8421" started-at="2020-02-17T10:32:36Z" finished-at="2020-02-17T10:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.projects_scripts.CreateProject@4f7d0008]" name="login" is-config="true" duration-ms="3682" started-at="2020-02-17T10:32:44Z" finished-at="2020-02-17T10:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateProject()[pri:0, instance:com.actitime.projects_scripts.CreateProject@4f7d0008]" name="testCreateProject" duration-ms="3352" started-at="2020-02-17T10:32:48Z" finished-at="2020-02-17T10:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateProject -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.projects_scripts.CreateProject@4f7d0008]" name="logout" is-config="true" duration-ms="360" started-at="2020-02-17T10:32:51Z" finished-at="2020-02-17T10:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.actitime.projects_scripts.CreateProject@4f7d0008]" name="CloseBrowser" is-config="true" duration-ms="2190" started-at="2020-02-17T10:32:52Z" finished-at="2020-02-17T10:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.actitime.projects_scripts.CreateProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

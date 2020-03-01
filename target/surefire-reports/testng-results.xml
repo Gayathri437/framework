@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25411" started-at="2020-02-17T21:56:36 IST" finished-at="2020-02-17T21:57:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25411" started-at="2020-02-17T21:56:36 IST" finished-at="2020-02-17T21:57:02 IST">
+      <class name="com.actitime.tasks_scripts.CreateTask">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.actitime.tasks_scripts.CreateTask@31dc339b]" name="OpenBrowser" is-config="true" duration-ms="16422" started-at="2020-02-17T21:56:36 IST" finished-at="2020-02-17T21:56:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.tasks_scripts.CreateTask@31dc339b]" name="login" is-config="true" duration-ms="1883" started-at="2020-02-17T21:56:53 IST" finished-at="2020-02-17T21:56:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateTask()[pri:0, instance:com.actitime.tasks_scripts.CreateTask@31dc339b]" name="testCreateTask" duration-ms="3775" started-at="2020-02-17T21:56:55 IST" finished-at="2020-02-17T21:56:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateTask -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.tasks_scripts.CreateTask@31dc339b]" name="logout" is-config="true" duration-ms="117" started-at="2020-02-17T21:56:58 IST" finished-at="2020-02-17T21:56:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.actitime.tasks_scripts.CreateTask@31dc339b]" name="CloseBrowser" is-config="true" duration-ms="3123" started-at="2020-02-17T21:56:59 IST" finished-at="2020-02-17T21:57:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.actitime.tasks_scripts.CreateTask -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

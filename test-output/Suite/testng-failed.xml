@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.actitime.customers_scripts.CreateCustomer">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="testCreateCustomer"/>
+          <include name="login"/>
+          <include name="logout"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- com.actitime.customers_scripts.CreateCustomer -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
